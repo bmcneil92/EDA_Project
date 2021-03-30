@@ -27,4 +27,4 @@ neighborhoods are closer to the Pre-COVID era usage.
 
 
 
-This percentage will help us identify which neighorhoods are closer to their Pre-COVID usage and by incorporating different demographic datasets we can get a better makeup of who is using the trains as a necessity.
+This percentage will help us identify which neighorhoods are closer to their Pre-COVID usage. By incorporating different demographic datasets we can get a better makeup of who is closer to gaining normal-time volume and which neighorhoods would be unfairly affected the most by a farehike
