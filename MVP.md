@@ -40,7 +40,9 @@ The high-traffic stations from the Pre-COVID have remained the same respective v
 
 
 
-I then compared the COVID usage to the Pre COVID usage and found many outer borough neighborhoods are closer to the Pre-COVID era usage. 
+I then compared the COVID usage to the Pre COVID usage and found many outer borough 
+neighborhoods are closer to the Pre-COVID era usage. 
+
 ![](RiderPercentage.png)
 
 
