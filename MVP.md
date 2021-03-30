@@ -4,14 +4,33 @@ I aggregated the total subway station entries from a set COVID-era (mid Dec2020 
 
 The high-traffic stations from the Pre-COVID have remained the same respective volume during COVID. 
 
-Top 10 Used Stations Pre-Covid
-![](PreCoivdEraUsage.png) 
+#Top 10 Used Stations Pre-Covid
+![](PreCoivdEraUsage.png)
 
 
 
 
-Top 10 Used Stations Covid Era:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Top 10 Used Stations Covid Era:
+
 ![](COVIDEraUsage.png)
+
 
 
 
