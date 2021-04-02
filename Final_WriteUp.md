@@ -22,3 +22,5 @@ Further aggregations were done on specific column levels using groupby functions
 Pandas for data manipulation
 Numpy matplotlib and seaborn for plotting.
 Geopandas for Geospatial analysis
+SQLLite
+sqlalchemy
