@@ -19,8 +19,8 @@ After reviewing every many cases in each dataset’s .99 quartile, these numbers
 Further aggregations were done on specific column levels using groupby functions.
 
 ## Tools
-Pandas for data manipulation
-Numpy matplotlib and seaborn for plotting.
-Geopandas for Geospatial analysis
-SQLLite
-sqlalchemy
+Pandas for data manipulation,
+Numpy matplotlib and seaborn for plotting,
+Geopandas for Geospatial analysis,
+SQLLite for database,
+Sqlalchemy
